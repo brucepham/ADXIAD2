@@ -8,22 +8,6 @@ This Lab is organised into the following 4 challenges:
 | [Challenge 7](#challenge-7-going-more-advanced-with-kql)| Advanced KQL operators| 45 Min|
 | [Challenge 8](#challenge-8-task-1--find-the-anomaly-value-)| Visualization| 45 Min |
 
-- [Go to ADX-In-A-Day Homepage](https://github.com/Azure/ADX-in-a-Day)
-
-## **Earn a digital badge!**
-
-In order to receive the "ADX-In-A-Day" digital badge, you will need to complete the tasks marked with ✅ in [Lab 1](https://github.com/Azure/ADX-in-a-Day-Lab1) & Lab 2. Submit your answers for [Lab 1](https://forms.office.com/r/qZ0yghDwyb) and Lab 2 quizzes in order to receive the "ADX in a Day" digital badge. You may edit your answers after or try again.
-
-| :information_source: **Note**    |
-|:---------------------------|
-|**For Lab 2, please submit the results for the tasks marked with ✅ in the following link**: [Quiz ADX in a Day Lab 2](https://forms.office.com/r/8z4DQ04eXH) |
-
-| :information_source: **Note**    |
-|:---------------------------|
-| **Please allow us 5 working days to issue the badge**|
-
-![ADX in a day](/assets/images/badge.png "ADX in a day")
-
 ## Challenge 5: How long will my data be kept? - Caching and Retention Policies
 
 Among the different policies you can set to the ADX cluster, two policies are of particular importance:
@@ -493,45 +477,4 @@ There are multiple ways to connect ADX and PowerBI depending on the use case.
 - [Visualize data using the Azure Data Explorer connector for Power BI](https://docs.microsoft.com/en-us/azure/data-explorer/power-bi-connector)
 - [Visualize data using a query imported into Power BI](https://docs.microsoft.com/en-us/azure/data-explorer/power-bi-imported-query)
 
-## Continue your learning journey
 
-Learn and get hands on experience with a full blown ADX cluster and advanced ADX topics like Materialized Views, scaling, security, geo mapping and more.
-
-- [Azure Data Explorer Microhack](https://github.com/Azure/azure-kusto-microhack)
-
- ![ADX Microhack badge](/assets/images/microhack_badge.png "ADX Microhack badge")
-
-- Become a detective and solve some puzzles using Kusto Query Langugage! You can reuse the same free cluster that you have used to complete ADX-in-a-Day challenges.
-[Kusto Detective Agency](https://detective.kusto.io)
-
- ![Kusto Detective Agency Badge](/assets/images/kda_badge.png "Kusto Detective Agency Badge")
-
-🎉 Congrats! You've completed the ADX in a Day Lab 2 challenges!
-
-To earn the digital badge, submit the results of the challenges marked with ✅: [Answer sheet - ADX in a Day Lab 2](https://forms.office.com/r/8z4DQ04eXH)
-
-<details>
-<summary><b>Contributing</b></summary><br>
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-</details>
-  
-<details>
-<summary><b>Trademarks</b></summary><br>
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
-</details>
